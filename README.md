@@ -39,8 +39,8 @@ That’s okay — it means Git is already initialized.
 ### 🔹 Step 3: Set your Git identity (if not already set)
 
 ```bash
-git config --global user.name "Sundareswaran S"
-git config --global user.email "sundar@azentyk.com"
+git config --global user.name "Azentyk"
+git config --global user.email "azentyk01@gmail.com"
 ```
 
 ---
