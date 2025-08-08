@@ -14,4 +14,8 @@ h5py
 fastapi
 uvicorn
 jinja2
+uvicorn[standard]
+gunicorn
+pydantic
+
 
