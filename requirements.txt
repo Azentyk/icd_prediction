@@ -16,9 +16,3 @@ uvicorn
 jinja2
 uvicorn[standard]
 gunicorn
-<<<<<<< HEAD
-=======
-pydantic
-
->>>>>>> bd968b0aa35daf8a8b1fb3daea5b44af539951f5
-
